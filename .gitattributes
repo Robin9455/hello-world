@@ -3,5 +3,5 @@
 *.md    text
 *.cpp   text
 *.h     text
-.gitattributes
-.gitignore
+.gitattributes text
+.gitignore text
